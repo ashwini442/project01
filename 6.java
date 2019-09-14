@@ -1,2 +1,2 @@
 idea1
-dummy file2
+add dummy line for revert
